@@ -1,2 +1,2 @@
 # baozi-mao
-Goofy little birthday birthday app
+Goofy little birthday app
